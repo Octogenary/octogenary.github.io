@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
+  
+  
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-10-22T22:01:13+01:00</updated>
+  <id>http://localhost:4000//</id>
+
+  
+    <title type="html">palus weſtmonasterienſis</title>
+  
+
+  
+
+  
+    <author>
+        <name>Joshua Loo</name>
+      
+      
+    </author>
+  
+
+  
+  
+    <entry>
+      
+      <title type="html">Removing Pandoc’s bibliography</title>
+      
+      
+      <link href="http://localhost:4000/2019/10/22/removing-bibliography/" rel="alternate" type="text/html" title="Removing Pandoc’s bibliography" />
+      
+      <published>2019-10-22T00:00:00+01:00</published>
+      <updated>2019-10-22T00:00:00+01:00</updated>
+      <id>http://localhost:4000/2019/10/22/removing-bibliography</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/22/removing-bibliography/">&lt;p&gt;In generating this website I use a combination of Jekyll&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; and Pandoc.&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; which Jekyll’s default Markdown processors do not.&lt;/p&gt;
+&lt;p&gt;I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.&lt;a href=&quot;#fn4&quot; class=&quot;footnote-ref&quot; id=&quot;fnref4&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It turns out that CSL is not as alien as I thought; all that one needs to do to fix this is to remove everything between the &lt;code&gt;&amp;lt;bibliography&amp;gt;&lt;/code&gt; tags on one’s local copy of the CSL file to cause the bibliography to disappear.&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Vide&lt;/a&gt;.&lt;a href=&quot;#fnref1&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://pandoc.org/&quot;&gt;Vide&lt;/a&gt;.&lt;a href=&quot;#fnref2&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn3&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://citationstyles.org/&quot;&gt;Vide&lt;/a&gt;.&lt;a href=&quot;#fnref3&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn4&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;I use &lt;a href=&quot;https://github.com/citation-style-language/styles/blob/master/chicago-fullnote-bibliography.csl&quot;&gt;Chicago&lt;/a&gt;.&lt;a href=&quot;#fnref4&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Joshua Loo</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="meta" />
+      
+
+      
+        <category term="pandoc" />
+      
+        <category term="csl" />
+      
+
+      
+        <summary type="html">In generating this website I use a combination of Jekyll1 and Pandoc.2 Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),3 which Jekyll’s default Markdown processors do not. I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.4 It turns out that CSL is not as alien as I thought; all that one needs to do to fix this is to remove everything between the &amp;lt;bibliography&amp;gt; tags on one’s local copy of the CSL file to cause the bibliography to disappear. Vide.↩︎ Vide.↩︎ Vide.↩︎ I use Chicago.↩︎</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Firing of a water cannon outside Kowloon Mosque: my letter to the SCMP</title>
+      
+      
+      <link href="http://localhost:4000/2019/10/21/mosque-water-cannon/" rel="alternate" type="text/html" title="Firing of a water cannon outside Kowloon Mosque: my letter to the SCMP" />
+      
+      <published>2019-10-21T00:00:00+01:00</published>
+      <updated>2019-10-21T00:00:00+01:00</updated>
+      <id>http://localhost:4000/2019/10/21/mosque-water-cannon</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/21/mosque-water-cannon/">&lt;p&gt;A march led in their personal capacities by members of the Civil Human Rights Front&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; took place on 20th October (Sunday). Jimmy Sham, a prominent member of the Front, was attacked earlier that week by what were alleged to be South Asian assailants, which lead some to demand retribution; members of the pan-democratic camp and Jimmy Sham himself urged others to support ethnic harmony and refrain from blaming ethnic minorities as a whole.&lt;/p&gt;
+&lt;p&gt;Some members of the camp as well as ethnic minority Hongkongers assembled outside Chungking Mansions and Kowloon Mosque, two sites important to the South Asian community; at Chungking Mansions, the gathering was uninterrupted and bottled water was handed out. At Kowloon Mosque, however, the police fired a spray so vile that some were sent to hospital at those outside the mosque. Some of the dyed water also hit the mosque, revealing the police’s cavalier attitude to ethnic minorities and other people.&lt;/p&gt;
+&lt;p&gt;The incident has attracted rather a lot of attention in the international and local media.&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; The police have apologised to the mosque and one person outside—Mohan Chugani—who has previously appeared at police rallies.&lt;span class=&quot;citation&quot; data-cites=&quot;lum2019&quot;&gt;&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt; The &lt;em&gt;SCMP&lt;/em&gt; view this as adequate and wrote an editorial urging calm after the incident.&lt;a href=&quot;#fn4&quot; class=&quot;footnote-ref&quot; id=&quot;fnref4&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In response, I wrote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The editorial of 21 October manages to omit two important points about the firing of a water cannon at Kowloon Mosque. First, the police have apologised only to the mosque, but still accuse those outside of being “dangerous rioters”. This is a blatant falsehood. Video footage shows a few people standing outside peacefully. They included Mohan Chugani, a businessman who has previously spoken at a pro-police rally, and several journalists. It borders on absurdity to call them rioters. Once again the police have chosen to obfuscate instead of acknowledging wrongdoing and apologising.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Second, it is not helpful to smugly claim that “[d]iversity and tolerance have long been seen as characteristic of Hong Kong” when there is so much more to do. The government are complicit in widespread racism: racial discrimination by the police, an educational system that leaves South Asians behind, and discriminatory immigration policy are longstanding grievances that must be addressed. The contrast between a spontaneous move by ordinary citizens to clean the mosque and the tokenistic wheeling out of ethnic minority officers by the police suggests that the people care more about ethnic minorities than the government.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We shall see whether this letter is published.&lt;/p&gt;
+&lt;section class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;Vide their &lt;a href=&quot;https://www.facebook.com/CivilHumanRightsFront/&quot;&gt;Facebook&lt;/a&gt;. An application was made to the police in the name of the Front to hold the march, but the police issued a letter of objection under the Public Order Ordinance: &lt;span class=&quot;citation&quot; data-cites=&quot;1967&quot;&gt;“Public Order Ordinance (Cap. 245)” (1967), &lt;a href=&quot;https://www.elegislation.gov.hk/hk/cap245&quot; role=&quot;doc-biblioref&quot;&gt;https://www.elegislation.gov.hk/hk/cap245&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;#fnref1&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;torode2019&quot;&gt;Greg Torode and James Pomfret, “Hong Kong Riot Police Teargas, Chase Protesters, Residents Jeer Officers,” &lt;em&gt;Reuters&lt;/em&gt;, October 21, 2019, &lt;a href=&quot;https://www.reuters.com/article/us-hongkong-protests-idUSKBN1X004X&quot; role=&quot;doc-biblioref&quot;&gt;https://www.reuters.com/article/us-hongkong-protests-idUSKBN1X004X&lt;/a&gt;&lt;/span&gt;; &lt;span class=&quot;citation&quot; data-cites=&quot;2019l&quot;&gt;“Hong Kong Riot Police Fire Tear Gas at Pro-Democracy Demonstrators,” &lt;em&gt;The Irish Times&lt;/em&gt;, October 21, 2019, &lt;a href=&quot;https://www.irishtimes.com/news/world/asia-pacific/hong-kong-riot-police-fire-tear-gas-at-pro-democracy-demonstrators-1.4057639&quot; role=&quot;doc-biblioref&quot;&gt;https://www.irishtimes.com/news/world/asia-pacific/hong-kong-riot-police-fire-tear-gas-at-pro-democracy-demonstrators-1.4057639&lt;/a&gt;&lt;/span&gt;; &lt;span class=&quot;citation&quot; data-cites=&quot;2019m&quot;&gt;“Hong Kong Leaders Apologise to Mosque After Police Sprayed It with Dye,” &lt;em&gt;Mail Online&lt;/em&gt;, October 21, 2019, &lt;a href=&quot;https://www.dailymail.co.uk/news/article-7595205/Hong-Kong-leaders-apologize-mosque-water-cannon-hit.html&quot; role=&quot;doc-biblioref&quot;&gt;https://www.dailymail.co.uk/news/article-7595205/Hong-Kong-leaders-apologize-mosque-water-cannon-hit.html&lt;/a&gt;&lt;/span&gt;; &lt;span class=&quot;citation&quot; data-cites=&quot;cheng2019&quot;&gt;Kris Cheng, “Victims of Water Cannon Outside Kowloon Mosque File Complaints Against Hong Kong Police,” &lt;em&gt;Hong Kong Free Press&lt;/em&gt;, October 22, 2019, &lt;a href=&quot;https://www.hongkongfp.com/2019/10/22/victims-water-cannon-outside-kowloon-mosque-file-complaints-hong-kong-police/&quot; role=&quot;doc-biblioref&quot;&gt;https://www.hongkongfp.com/2019/10/22/victims-water-cannon-outside-kowloon-mosque-file-complaints-hong-kong-police/&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;#fnref2&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn3&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;Alvin Lum and Chan Ho-him, “Hong Kong Leader Apologises After Water Cannon Sprays Mosque Entrance,” &lt;em&gt;South China Morning Post&lt;/em&gt;, October 21, 2019, &lt;a href=&quot;https://www.scmp.com/news/hong-kong/politics/article/3033843/hong-kong-protests-city-leader-carrie-lam-and-police-chief&quot; role=&quot;doc-biblioref&quot;&gt;https://www.scmp.com/news/hong-kong/politics/article/3033843/hong-kong-protests-city-leader-carrie-lam-and-police-chief&lt;/a&gt;.&lt;a href=&quot;#fnref3&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn4&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;editorial2019&quot;&gt;Editorial, “Apology for Firing Water Cannon at Hong Kong Mosque Is a Welcome Move,” &lt;em&gt;South China Morning Post&lt;/em&gt;, October 21, 2019, &lt;a href=&quot;https://www.scmp.com/comment/opinion/article/3033930/apology-muslim-community-over-firing-water-cannon-mosque-welcome&quot; role=&quot;doc-biblioref&quot;&gt;https://www.scmp.com/comment/opinion/article/3033930/apology-muslim-community-over-firing-water-cannon-mosque-welcome&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;#fnref4&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Joshua Loo</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="letters" />
+      
+
+      
+        <category term="hongkong" />
+      
+        <category term="mosque" />
+      
+
+      
+        <summary type="html">A march led in their personal capacities by members of the Civil Human Rights Front1 took place on 20th October (Sunday). Jimmy Sham, a prominent member of the Front, was attacked earlier that week by what were alleged to be South Asian assailants, which lead some to demand retribution; members of the pan-democratic camp and Jimmy Sham himself urged others to support ethnic harmony and refrain from blaming ethnic minorities as a whole. Some members of the camp as well as ethnic minority Hongkongers assembled outside Chungking Mansions and Kowloon Mosque, two sites important to the South Asian community; at Chungking Mansions, the gathering was uninterrupted and bottled water was handed out. At Kowloon Mosque, however, the police fired a spray so vile that some were sent to hospital at those outside the mosque. Some of the dyed water also hit the mosque, revealing the police’s cavalier attitude to ethnic minorities and other people. The incident has attracted rather a lot of attention in the international and local media.2 The police have apologised to the mosque and one person outside—Mohan Chugani—who has previously appeared at police rallies.3 The SCMP view this as adequate and wrote an editorial urging calm after the incident.4 In response, I wrote: The editorial of 21 October manages to omit two important points about the firing of a water cannon at Kowloon Mosque. First, the police have apologised only to the mosque, but still accuse those outside of being “dangerous rioters”. This is a blatant falsehood. Video footage shows a few people standing outside peacefully. They included Mohan Chugani, a businessman who has previously spoken at a pro-police rally, and several journalists. It borders on absurdity to call them rioters. Once again the police have chosen to obfuscate instead of acknowledging wrongdoing and apologising. Second, it is not helpful to smugly claim that “[d]iversity and tolerance have long been seen as characteristic of Hong Kong” when there is so much more to do. The government are complicit in widespread racism: racial discrimination by the police, an educational system that leaves South Asians behind, and discriminatory immigration policy are longstanding grievances that must be addressed. The contrast between a spontaneous move by ordinary citizens to clean the mosque and the tokenistic wheeling out of ethnic minority officers by the police suggests that the people care more about ethnic minorities than the government. We shall see whether this letter is published. Vide their Facebook. An application was made to the police in the name of the Front to hold the march, but the police issued a letter of objection under the Public Order Ordinance: “Public Order Ordinance (Cap. 245)” (1967), https://www.elegislation.gov.hk/hk/cap245↩︎ Greg Torode and James Pomfret, “Hong Kong Riot Police Teargas, Chase Protesters, Residents Jeer Officers,” Reuters, October 21, 2019, https://www.reuters.com/article/us-hongkong-protests-idUSKBN1X004X; “Hong Kong Riot Police Fire Tear Gas at Pro-Democracy Demonstrators,” The Irish Times, October 21, 2019, https://www.irishtimes.com/news/world/asia-pacific/hong-kong-riot-police-fire-tear-gas-at-pro-democracy-demonstrators-1.4057639; “Hong Kong Leaders Apologise to Mosque After Police Sprayed It with Dye,” Mail Online, October 21, 2019, https://www.dailymail.co.uk/news/article-7595205/Hong-Kong-leaders-apologize-mosque-water-cannon-hit.html; Kris Cheng, “Victims of Water Cannon Outside Kowloon Mosque File Complaints Against Hong Kong Police,” Hong Kong Free Press, October 22, 2019, https://www.hongkongfp.com/2019/10/22/victims-water-cannon-outside-kowloon-mosque-file-complaints-hong-kong-police/↩︎ Alvin Lum and Chan Ho-him, “Hong Kong Leader Apologises After Water Cannon Sprays Mosque Entrance,” South China Morning Post, October 21, 2019, https://www.scmp.com/news/hong-kong/politics/article/3033843/hong-kong-protests-city-leader-carrie-lam-and-police-chief.↩︎ Editorial, “Apology for Firing Water Cannon at Hong Kong Mosque Is a Welcome Move,” South China Morning Post, October 21, 2019, https://www.scmp.com/comment/opinion/article/3033930/apology-muslim-community-over-firing-water-cannon-mosque-welcome↩︎</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">The rule of law: my letter appears in the SCMP</title>
+      
+      
+      <link href="http://localhost:4000/2019/10/19/scmp-letter/" rel="alternate" type="text/html" title="The rule of law: my letter appears in the SCMP" />
+      
+      <published>2019-10-19T00:00:00+01:00</published>
+      <updated>2019-10-19T00:00:00+01:00</updated>
+      <id>http://localhost:4000/2019/10/19/scmp-letter</id>
+      <content type="html" xml:base="http://localhost:4000/2019/10/19/scmp-letter/">&lt;p&gt;Today my letter&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; appeared in the &lt;em&gt;South China Morning Post&lt;/em&gt;. The original text I sent follows. I did write this letter rather hastily, because a previous letter I wrote in response to a column&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; by Alex Lo&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; was not published.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Edwin Choy (14 Oct) writes that perpetrators of “violence, vandalism and other crimes should know from those practising law that their acts constitute serious crimes and are not tolerable in any civilised society.” But the law is never threatened simply because some violate it; it is threatened by the corruption of the institutions that are supposed to uphold it, which Choy skillfully manages to elide in saying merely that “there may be indications that some police officers have used excessive force when dealing with the rioters.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On 21 July we learnt that the police cannot be trusted to side with the public against triads. On 31 August we learnt that the police consider themselves to be one party of a conflict the other party to which is the public. And from June to October we have learnt that the police have come to see those whom they are meant to serve not as citizens but as “cockroaches.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Society can reasonably expect adherence to the rule of law in the way Choy advocates when basic requirements of procedural fairness are met by the police, as they have manifestly not been over the past months. Of course some actions should still be condemned, but not simply in virtue of their illegality; rather, they militate against the principles of justice the achievement of which motivates our creation of the law. The only way that such requirements could be restored is through an independent commission of inquiry—a sensible path that as Choy knows many protesters advocate.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As I wrote on Facebook,&lt;a href=&quot;#fn4&quot; class=&quot;footnote-ref&quot; id=&quot;fnref4&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Amusingly, my letter is published next to one from one of the most distinguished barristers in Hong Kong in support of Mr Choy. He asks those in agreement with him to “stand up and be counted”: to that I should say that they had their chance in the last elections to the Bar Council, in which over 80% of those eligible voted. Philip Dykes’ stand against threats to the rule of law from both police and protesters was exactly the sort of approach one would have expected from him. Cheng Huan and Mr Choy ought not to assume that they have the backing of a silent majority: a vocal majority seem to have indicated otherwise.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;section class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;loo2019&quot;&gt;Joshua Loo, “Hong Kong Police Are Bigger Threat to Rule of Law Than Protesters,” &lt;em&gt;South China Morning Post: Letters&lt;/em&gt;, October 19, 2019, &lt;a href=&quot;https://www.scmp.com/comment/letters/article/3033219/hong-kong-protesters-may-have-broken-law-police-misconduct&quot; role=&quot;doc-biblioref&quot;&gt;https://www.scmp.com/comment/letters/article/3033219/hong-kong-protesters-may-have-broken-law-police-misconduct&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;#fnref1&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;lo2019&quot;&gt;Alex Lo, “Protesters See the Police as an Occupation Force,” &lt;em&gt;South China Morning Post: Opinion&lt;/em&gt;, September 1, 2019, &lt;a href=&quot;https://www.scmp.com/comment/opinion/article/3025269/protesters-see-police-occupation-force&quot; role=&quot;doc-biblioref&quot;&gt;https://www.scmp.com/comment/opinion/article/3025269/protesters-see-police-occupation-force&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;#fnref2&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn3&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;lo&quot;&gt;Alex Lo, “Alex Lo,” &lt;em&gt;South China Morning Post&lt;/em&gt;, accessed October 22, 2019, &lt;a href=&quot;https://www.scmp.com/author/alex-lo&quot; role=&quot;doc-biblioref&quot;&gt;https://www.scmp.com/author/alex-lo&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;#fnref3&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn4&quot; role=&quot;doc-endnote&quot;&gt;&lt;p&gt;&lt;span class=&quot;citation&quot; data-cites=&quot;loo2019a&quot;&gt;Joshua Loo, “In Today’s South China Morning Post,” &lt;em&gt;Facebook&lt;/em&gt;, October 19, 2019, &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=958830721146139&quot; role=&quot;doc-biblioref&quot;&gt;https://www.facebook.com/photo.php?fbid=958830721146139&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;#fnref4&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Joshua Loo</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="letters" />
+      
+
+      
+        <category term="hongkong" />
+      
+        <category term="law" />
+      
+
+      
+        <summary type="html">Today my letter1 appeared in the South China Morning Post. The original text I sent follows. I did write this letter rather hastily, because a previous letter I wrote in response to a column2 by Alex Lo3 was not published. Edwin Choy (14 Oct) writes that perpetrators of “violence, vandalism and other crimes should know from those practising law that their acts constitute serious crimes and are not tolerable in any civilised society.” But the law is never threatened simply because some violate it; it is threatened by the corruption of the institutions that are supposed to uphold it, which Choy skillfully manages to elide in saying merely that “there may be indications that some police officers have used excessive force when dealing with the rioters.” On 21 July we learnt that the police cannot be trusted to side with the public against triads. On 31 August we learnt that the police consider themselves to be one party of a conflict the other party to which is the public. And from June to October we have learnt that the police have come to see those whom they are meant to serve not as citizens but as “cockroaches.” Society can reasonably expect adherence to the rule of law in the way Choy advocates when basic requirements of procedural fairness are met by the police, as they have manifestly not been over the past months. Of course some actions should still be condemned, but not simply in virtue of their illegality; rather, they militate against the principles of justice the achievement of which motivates our creation of the law. The only way that such requirements could be restored is through an independent commission of inquiry—a sensible path that as Choy knows many protesters advocate. As I wrote on Facebook,4 Amusingly, my letter is published next to one from one of the most distinguished barristers in Hong Kong in support of Mr Choy. He asks those in agreement with him to “stand up and be counted”: to that I should say that they had their chance in the last elections to the Bar Council, in which over 80% of those eligible voted. Philip Dykes’ stand against threats to the rule of law from both police and protesters was exactly the sort of approach one would have expected from him. Cheng Huan and Mr Choy ought not to assume that they have the backing of a silent majority: a vocal majority seem to have indicated otherwise. Joshua Loo, “Hong Kong Police Are Bigger Threat to Rule of Law Than Protesters,” South China Morning Post: Letters, October 19, 2019, https://www.scmp.com/comment/letters/article/3033219/hong-kong-protesters-may-have-broken-law-police-misconduct↩︎ Alex Lo, “Protesters See the Police as an Occupation Force,” South China Morning Post: Opinion, September 1, 2019, https://www.scmp.com/comment/opinion/article/3025269/protesters-see-police-occupation-force↩︎ Alex Lo, “Alex Lo,” South China Morning Post, accessed October 22, 2019, https://www.scmp.com/author/alex-lo↩︎ Joshua Loo, “In Today’s South China Morning Post,” Facebook, October 19, 2019, https://www.facebook.com/photo.php?fbid=958830721146139↩︎</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>
