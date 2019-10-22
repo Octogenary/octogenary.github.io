@@ -274,4 +274,6 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 body { font-family: 'Noto Serif', serif; }
 
+sup { fontsize: 0.83em; vertical-align: super; line-height: 0; }
+
 /*# sourceMappingURL=main.css.map */
