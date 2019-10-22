@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-10-22T22:01:13+01:00</updated>
-  <id>http://localhost:4000//</id>
+  <link href="/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2019-10-22T22:21:42+01:00</updated>
+  <id>//</id>
 
   
     <title type="html">palus weſtmonasterienſis</title>
@@ -29,12 +29,12 @@
       <title type="html">Removing Pandoc’s bibliography</title>
       
       
-      <link href="http://localhost:4000/2019/10/22/removing-bibliography/" rel="alternate" type="text/html" title="Removing Pandoc’s bibliography" />
+      <link href="/2019/10/22/removing-bibliography/" rel="alternate" type="text/html" title="Removing Pandoc’s bibliography" />
       
       <published>2019-10-22T00:00:00+01:00</published>
       <updated>2019-10-22T00:00:00+01:00</updated>
-      <id>http://localhost:4000/2019/10/22/removing-bibliography</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/22/removing-bibliography/">&lt;p&gt;In generating this website I use a combination of Jekyll&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; and Pandoc.&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; which Jekyll’s default Markdown processors do not.&lt;/p&gt;
+      <id>/2019/10/22/removing-bibliography</id>
+      <content type="html" xml:base="/2019/10/22/removing-bibliography/">&lt;p&gt;In generating this website I use a combination of Jekyll&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; and Pandoc.&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; which Jekyll’s default Markdown processors do not.&lt;/p&gt;
 &lt;p&gt;I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.&lt;a href=&quot;#fn4&quot; class=&quot;footnote-ref&quot; id=&quot;fnref4&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;It turns out that CSL is not as alien as I thought; all that one needs to do to fix this is to remove everything between the &lt;code&gt;&amp;lt;bibliography&amp;gt;&lt;/code&gt; tags on one’s local copy of the CSL file to cause the bibliography to disappear.&lt;/p&gt;
 &lt;section class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
@@ -86,12 +86,12 @@
       <title type="html">Firing of a water cannon outside Kowloon Mosque: my letter to the SCMP</title>
       
       
-      <link href="http://localhost:4000/2019/10/21/mosque-water-cannon/" rel="alternate" type="text/html" title="Firing of a water cannon outside Kowloon Mosque: my letter to the SCMP" />
+      <link href="/2019/10/21/mosque-water-cannon/" rel="alternate" type="text/html" title="Firing of a water cannon outside Kowloon Mosque: my letter to the SCMP" />
       
       <published>2019-10-21T00:00:00+01:00</published>
       <updated>2019-10-21T00:00:00+01:00</updated>
-      <id>http://localhost:4000/2019/10/21/mosque-water-cannon</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/21/mosque-water-cannon/">&lt;p&gt;A march led in their personal capacities by members of the Civil Human Rights Front&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; took place on 20th October (Sunday). Jimmy Sham, a prominent member of the Front, was attacked earlier that week by what were alleged to be South Asian assailants, which lead some to demand retribution; members of the pan-democratic camp and Jimmy Sham himself urged others to support ethnic harmony and refrain from blaming ethnic minorities as a whole.&lt;/p&gt;
+      <id>/2019/10/21/mosque-water-cannon</id>
+      <content type="html" xml:base="/2019/10/21/mosque-water-cannon/">&lt;p&gt;A march led in their personal capacities by members of the Civil Human Rights Front&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; took place on 20th October (Sunday). Jimmy Sham, a prominent member of the Front, was attacked earlier that week by what were alleged to be South Asian assailants, which lead some to demand retribution; members of the pan-democratic camp and Jimmy Sham himself urged others to support ethnic harmony and refrain from blaming ethnic minorities as a whole.&lt;/p&gt;
 &lt;p&gt;Some members of the camp as well as ethnic minority Hongkongers assembled outside Chungking Mansions and Kowloon Mosque, two sites important to the South Asian community; at Chungking Mansions, the gathering was uninterrupted and bottled water was handed out. At Kowloon Mosque, however, the police fired a spray so vile that some were sent to hospital at those outside the mosque. Some of the dyed water also hit the mosque, revealing the police’s cavalier attitude to ethnic minorities and other people.&lt;/p&gt;
 &lt;p&gt;The incident has attracted rather a lot of attention in the international and local media.&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; The police have apologised to the mosque and one person outside—Mohan Chugani—who has previously appeared at police rallies.&lt;span class=&quot;citation&quot; data-cites=&quot;lum2019&quot;&gt;&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt; The &lt;em&gt;SCMP&lt;/em&gt; view this as adequate and wrote an editorial urging calm after the incident.&lt;a href=&quot;#fn4&quot; class=&quot;footnote-ref&quot; id=&quot;fnref4&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In response, I wrote:&lt;/p&gt;
@@ -151,12 +151,12 @@
       <title type="html">The rule of law: my letter appears in the SCMP</title>
       
       
-      <link href="http://localhost:4000/2019/10/19/scmp-letter/" rel="alternate" type="text/html" title="The rule of law: my letter appears in the SCMP" />
+      <link href="/2019/10/19/scmp-letter/" rel="alternate" type="text/html" title="The rule of law: my letter appears in the SCMP" />
       
       <published>2019-10-19T00:00:00+01:00</published>
       <updated>2019-10-19T00:00:00+01:00</updated>
-      <id>http://localhost:4000/2019/10/19/scmp-letter</id>
-      <content type="html" xml:base="http://localhost:4000/2019/10/19/scmp-letter/">&lt;p&gt;Today my letter&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; appeared in the &lt;em&gt;South China Morning Post&lt;/em&gt;. The original text I sent follows. I did write this letter rather hastily, because a previous letter I wrote in response to a column&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; by Alex Lo&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; was not published.&lt;/p&gt;
+      <id>/2019/10/19/scmp-letter</id>
+      <content type="html" xml:base="/2019/10/19/scmp-letter/">&lt;p&gt;Today my letter&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; appeared in the &lt;em&gt;South China Morning Post&lt;/em&gt;. The original text I sent follows. I did write this letter rather hastily, because a previous letter I wrote in response to a column&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; by Alex Lo&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; was not published.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Edwin Choy (14 Oct) writes that perpetrators of “violence, vandalism and other crimes should know from those practising law that their acts constitute serious crimes and are not tolerable in any civilised society.” But the law is never threatened simply because some violate it; it is threatened by the corruption of the institutions that are supposed to uphold it, which Choy skillfully manages to elide in saying merely that “there may be indications that some police officers have used excessive force when dealing with the rioters.”&lt;/p&gt;
 &lt;/blockquote&gt;
