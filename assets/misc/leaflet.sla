@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="840" PAGEHEIGHT="600" BORDERLEFT="30" BORDERRIGHT="30" BORDERTOP="30" BORDERBOTTOM="30" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="C059 Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="15" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="1" SnapToElement="0" MINGRID="5" MAJGRID="15" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="1" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#ef2929" BaseC="#0000ff" renderStack="2 4 0 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="" SPACE="RGB" R="153" G="102" B="51"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="FromPDF#171513" SPACE="RGB" R="22.5132751464844" G="20.6572723388672" B="19.1631317138672"/>
+        <COLOR NAME="FromPDF#6f2a10" SPACE="RGB" R="110.998306274414" G="42.0032501220703" B="16.0036468505859"/>
+        <COLOR NAME="FromPDF#b00000" SPACE="RGB" R="175.997314453125" G="0" B="0"/>
+        <COLOR NAME="FromPDF#b1571e" SPACE="RGB" R="176.997299194336" G="87.0025634765625" B="29.9995422363281"/>
+        <COLOR NAME="FromPDF#d0440b" SPACE="RGB" R="208.000717163086" G="68.0028533935547" B="10.9998321533203"/>
+        <COLOR NAME="FromPDF#ff8000" SPACE="RGB" R="255" G="127.5" B="0"/>
+        <COLOR NAME="FromPDF#ffadc9" SPACE="RGB" R="255" G="172.997360229492" B="201.000823974609"/>
+        <COLOR NAME="FromPDF#ffffff" SPACE="RGB" R="255" G="255" B="255"/>
+        <COLOR NAME="FromSVG#000000" SPACE="RGB" R="0" G="0" B="0"/>
+        <COLOR NAME="FromSVG#0080ff" SPACE="RGB" R="0" G="128" B="255"/>
+        <COLOR NAME="FromSVG#00aa00" SPACE="RGB" R="0" G="170" B="0"/>
+        <COLOR NAME="FromSVG#20c020" SPACE="RGB" R="32" G="192" B="32"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
+        <STYLE NAME="fbb-20" LINESPMode="2" OpticalMargins="14" FONT="fbb Regular" FONTSIZE="18" FONTFEATURES="-clig,+hlig,+onum,+pnum" LANGUAGE="en_US"/>
+        <STYLE NAME="fbb-40" PARENT="fbb-20" FONTSIZE="36"/>
+        <STYLE NAME="New Style"/>
+        <STYLE NAME="fbb-60" PARENT="fbb-40"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="1" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="1" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="1" colorMarks="0" includePDFMarks="0" PSLevel="3" PDLanguage="3" markLength="0" markOffset="7.29111854830269e-304" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="1" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="DejaVu Sans Book"/>
+            <Subset Name="Lato Black"/>
+            <Subset Name="Lato Bold"/>
+            <Subset Name="Lato Italic"/>
+            <Subset Name="Lato Regular"/>
+            <Subset Name="Lato Semibold"/>
+            <Subset Name="Lato Semibold Italic"/>
+            <Subset Name="Noto Sans CJK HK Regular"/>
+            <Subset Name="fbb Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="0" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="600" PAGEHEIGHT="840" BORDERLEFT="50" BORDERRIGHT="50" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="600" PAGEHEIGHT="840" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Front Page" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="560 200 160 40 " HorizontalGuides="40 800 " AGhorizontalAutoGap="40" AGverticalAutoGap="0" AGhorizontalAutoCount="3" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="840" PAGEHEIGHT="600" BORDERLEFT="30" BORDERRIGHT="30" BORDERTOP="30" BORDERBOTTOM="30" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="30" AGverticalAutoGap="60" AGhorizontalAutoCount="1" AGverticalAutoCount="2" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="660" PAGEWIDTH="840" PAGEHEIGHT="600" BORDERLEFT="30" BORDERRIGHT="30" BORDERTOP="30" BORDERBOTTOM="30" NUM="1" NAM="" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="30" AGverticalAutoGap="60" AGhorizontalAutoCount="1" AGverticalAutoCount="2" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <FRAMEOBJECT InID="239948941" XPOS="0" YPOS="0" OwnPage="-1" ItemID="1473204001" PTYPE="4" WIDTH="120" HEIGHT="180" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120 0 L120 180 L0 180 L0 0 Z" copath="M0 0 L120 0 L120 180 L0 180 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="120" gHeight="180" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="fbb Regular" FONTSIZE="18" FONTFEATURES="-clig,+dlig,+hlig,+smcp,+onum,+pnum" CH="commune westmonasteriense cultium coquentiumque"/>
+                <trail PARENT="fbb-40" ALIGN="2" OpticalMargins="0"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="1997250508" XPOS="0" YPOS="0" OwnPage="-1" ItemID="1484589361" PTYPE="4" WIDTH="10" HEIGHT="555" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L10 0 L10 555 L0 555 L0 0 Z" copath="M0 0 L10 0 L10 555 L0 555 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="10" gHeight="555" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="59566414" XPOS="0" YPOS="0" OwnPage="-1" ItemID="1473249569" PTYPE="4" WIDTH="360" HEIGHT="40" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L360 0 L360 40 L0 40 L0 0 Z" copath="M0 0 L360 0 L360 40 L0 40 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="360" gHeight="40" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="fbb Regular" FONTSIZE="17" FONTFEATURES="-clig,+dlig,+hlig,+smcp,+onum,+pnum" CH="the journal of the library committee"/>
+                <para PARENT="fbb-40"/>
+                <para PARENT="fbb-40"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="486187336" XPOS="0" YPOS="0" OwnPage="-1" ItemID="1473377425" PTYPE="4" WIDTH="120" HEIGHT="180" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120 0 L120 180 L0 180 L0 0 Z" copath="M0 0 L120 0 L120 180 L0 180 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="120" gHeight="180" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="fbb Regular" FONTSIZE="18" FONTFEATURES="-clig,+dlig,+hlig,+smcp,+onum,+pnum" CH="commune westmonasteriense cultium coquentiumque"/>
+                <trail PARENT="fbb-40" ALIGN="2" OpticalMargins="0"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <PAGEOBJECT XPOS="410" YPOS="50" OwnPage="0" ItemID="1481933361" PTYPE="4" WIDTH="245" HEIGHT="90" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245 0 L245 90 L0 90 L0 0 Z" copath="M0 0 L245 0 L245 90 L0 90 L0 0 Z" gXpos="410" gYpos="50" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Black" FONTSIZE="44" CH="References"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130" YPOS="50" OwnPage="0" ItemID="1488306529" PTYPE="4" WIDTH="220" HEIGHT="120" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 120 L0 120 L0 0 Z" copath="M0 0 L220 0 L220 120 L0 120 L0 0 Z" gXpos="130" gYpos="50" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Black" FONTSIZE="44" CH="What you can do"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130" YPOS="155" OwnPage="0" ItemID="1490002561" PTYPE="4" WIDTH="220" HEIGHT="435" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 435 L0 435 L0 0 Z" copath="M0 0 L220 0 L220 435 L0 435 L0 0 Z" gXpos="130" gYpos="155" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="22" CH="You don’t have to listen to Cheng. "/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Walk out and join us."/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Write to your MP. "/>
+                <ITEXT FONT="Lato Semibold Italic" FONTSIZE="22" KERN="-2" CH="petition.standwithhk.org"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Join protests."/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Semibold Italic" FONTSIZE="22" CH="fb.me/d4hk"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Speak out"/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="22" CH="—to friends and family, and on social media."/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="22" CH="For more:"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Semibold Italic" FONTSIZE="22" CH="github.com/hongkonggong/beyond-lennon-walls"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="690" YPOS="50" OwnPage="0" ItemID="1497001345" PTYPE="4" WIDTH="235" HEIGHT="204" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L235 0 L235 204 L0 204 L0 0 Z" copath="M0 0 L235 0 L235 204 L0 204 L0 0 Z" gXpos="690" gYpos="50" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="44" CH="Fight for "/>
+                <ITEXT FONT="Lato Black" FONTSIZE="44" CH="freedom"/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="44" CH="."/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="44" CH="Stand with "/>
+                <ITEXT FONT="Lato Black" FONTSIZE="44" CH="Hong Kong"/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="44" CH="."/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="690" YPOS="245" OwnPage="0" ItemID="1474547409" PTYPE="4" WIDTH="220" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 45 L0 45 L0 0 Z" copath="M0 0 L220 0 L220 45 L0 45 L0 0 Z" gXpos="690" gYpos="245" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Summary"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="690" YPOS="290" OwnPage="0" ItemID="1458367345" PTYPE="4" WIDTH="220" HEIGHT="330" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 330 L0 330 L0 0 Z" copath="M0 0 L220 0 L220 330 L0 330 L0 0 Z" gXpos="690" gYpos="290" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" CH="Teresa Cheng represents the worst of Hong Kong. Her dishonesty makes her completely unfit to address you today. Under her, the Department of Justice mysteriously refused to prosecute her for illegal construction at an apartment constructed by her husband,¹ and dropped a corruption case aganist a fellow Beijing crony, C.Y. Leung, the former Chief Executive."/>
+                <ITEXT CH="²"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" CH="But her political career is yet more damning. Under her, the government maliciously arrest citizens—including the completely uninvolved—as a replacement for democracy and dialogue.³ Yet her department refuses to investigate a police force that ignores attacks by gangs on protesters and commuters,⁴ and instead copied them.⁵ At the same time it attacks journalists, first-aiders, and even firemen.⁶ "/>
+                <ITEXT FONT="Lato Bold" FONTSIZE="11" CH="That is why we are protesting."/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" CH=" "/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="690" YPOS="50" OwnPage="0" ItemID="1496640001" PTYPE="4" WIDTH="235" HEIGHT="204" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L235 0 L235 204 L0 204 L0 0 Z" copath="M0 0 L235 0 L235 204 L0 204 L0 0 Z" gXpos="690" gYpos="50" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="44" CH="Fight for "/>
+                <ITEXT FONT="Lato Black" FONTSIZE="44" CH="freedom"/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="44" CH="."/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="44" CH="Stand with "/>
+                <ITEXT FONT="Lato Black" FONTSIZE="44" CH="Hong Kong"/>
+                <ITEXT FONT="Lato Semibold" FONTSIZE="44" CH="."/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="690" YPOS="245" OwnPage="0" ItemID="1478909649" PTYPE="4" WIDTH="220" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 45 L0 45 L0 0 Z" copath="M0 0 L220 0 L220 45 L0 45 L0 0 Z" gXpos="690" gYpos="245" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Summary"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="410" YPOS="112.2" OwnPage="0" ItemID="1476948113" PTYPE="4" WIDTH="220" HEIGHT="442.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="5" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 442.8 L0 442.8 L0 0 Z" copath="M0 0 L220 0 L220 442.8 L0 442.8 L0 0 Z" gXpos="410" gYpos="112.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="1. “Cheng accused in new flats row”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="South China Morning Post"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 30 May 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="2. “Cheng’s answers raise even more questions”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="SCMP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 28 December 2018."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="3. “Protest Prosecution Database”, Hong Kong Watch, accessed 4 November 2018—(1 November) the “total number of arrests [has reached] 3,126.”"/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="4. “How marauding gang struck fear into Yuen Long, leaving dozens of protesters and passengers injured, and Hong Kong police defending their response”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="SCMP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 23 July 2019. After criminal gangs attacked protesters and commuters, the police took “40 minutes” to respond after the &quot;first attack”, despite large numbers of calls to police and prior warnings by pan-democrats."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="5. “Violence erupts across Hong Kong as police fire ‘warning shots,’ MTR closes 5 lines and officers storm train carriage”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="Hong Kong Free Press"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 1 September 2019. “TV news footage showed riot police beating people…with many passengers seen to be cowering and bleeding.”"/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="6. “First aider and firefighter caught up in Hong Kong Island clashes as demonstrators target Chinese state media HQ”,"/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=" HKFP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 3 November 2019. “Hong Kong protests: Rubber bullet blinds journalist in one eye”, BBC News, 2 October 2019. For a comprehensive overview of earlier incidents, see the evidence compiled at https://www.hkpfreport.org/evidence."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="7. “What you can buy for the price of a Hong Kong flat: an Italian castle, a Sydney apartment with harbour view or a Dublin townhouse”, SCMP, 26 January 2016."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="8. “Monopoly City: The Companies That Own Everything in Hong Kong”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="Hong Kong Magazine"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 17 June 2016."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="9. “Functional constituencies: Broadening the franchise is vital for accountability and governance”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="HKFP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 17 April 2016.."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="10. “A crucial election for Hong Kong: what’s at stake?”, BBC News, 25 March 2017."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="11. “Hong Kong protests: Civil Human Rights Front loses appeal against police ban on Sunday march, but members will press on in ‘personal capacity’”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="SCMP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 19 October 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="12. “Police fire tear gas into Hong Kong railway station” (video), BBC News, 12 August 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="13. “Force gets flak over clip of tear gas in nursing home”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="SCMP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 28 July 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="14. “Shue Yan uni calls for details of student’s injury”, Radio Television Hong Kong, 5 November 2019"/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="15. “Hong Kong police confirm purchase of tear gas canisters made mainland China”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="HKFP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 12 October 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="16. “Millions in Hong Kong Have Been Exposed to Tear Gas Since June”, Bloomberg, 5 November 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="17. “Journalist shot in face with Hong Kong police projectile will lose sight permanently in right eye, lawyer says”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="HKFP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 2 October 2019; “‘Whole new territory of violence’: Video captures Hong Kong riot police ‘blind firing’ at journalists”, news.com.au, 5 October 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="18. “Hong Kong police breached internal and manufacturer guidelines by improperly firing projectiles”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="HKFP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 1 September 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="19. “Hong Kong activists complain police failed to display ID numbers, as security chief says uniform has ‘no room’”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="HKFP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 21 June 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="20. See fn. 4."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="21. “Hong Kong reels from chaos: 3 MTR stations closed, police defend storming trains, more demos planned”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="HKFP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 1 September 2019;  “Two journalists arrested as riot police storm malls around Hong Kong and deploy pepper spray”, HKFP, 4 November 2019; “More doctors, nurses decry police for arresting first-aiders, preventing treatment”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="The Standard"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 14 August 2019"/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="22. “Thousands gather at #MeToo rally to demand Hong Kong police answer accusations of sexual violence against protesters”, SCMP, 28 August 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="23.  &quot;"/>
+                <ITEXT FONT="Noto Sans CJK HK Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="【逆權運動】解構新屋嶺前世今生 前懲教主任：如現代「白屋」 警折磨年輕人"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="&quot;. "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="Apple Daily"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=". 3 September 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="24. “Hong Kong police accused of locking up onlookers not involved in the illegal protests rocking city”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="SCMP"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 26 August 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="25. “Soul-searching protest groups offer apology”, RTHK, 14 August 2018. “Hong Kong Airport Reopens After Court Order Forbids 'Obstructions,' Limits Protests”, Radio Free Asia, 14 August 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="26. “A man or a ‘Yellow Object’? Hong Kong Police Dispute Assault Allegations”, "/>
+                <ITEXT FONT="Lato Italic" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="New York Times"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH=", 24 September 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="6.1" FONTFEATURES="+onum" KERN="-1" LANGUAGE="en_GB" CH="27. “Huawei, Africa and the global reach of surveillance technology”, DW, 12 September 2019."/>
+                <para LINESPMode="0" LINESP="7.5"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="130" YPOS="690" OwnPage="1" ItemID="1514122577" PTYPE="4" WIDTH="220" HEIGHT="555" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 555 L0 555 L0 0 Z" copath="M0 0 L220 0 L220 555 L0 555 L0 0 Z" gXpos="130" gYpos="690" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1488382417" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Background"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="Hong Kong is one of the most prosperous cities on earth. That is why the unfairness that pervades almost all aspects of life in the city is so galling."/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="Hong Kong is economically and politically dominated by a small élite. The average flat sells for 19 times the mean salary,⁷ but at the same time a small élite enrich themselves by controlling monopolies such as that of Hongkong Electric."/>
+                <ITEXT CH="⁸"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH=" Only half the seats in the legislature are directly elected. Very many of the other half of them are simply controlled by a few corporations.⁹ And whilst a majority of Hongkongers vote for pro-democracy parties, they at most obtain about 300 seats out of 1200 in the committee electing the Chief Executive.¹⁰"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Why are you protesting?"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="What few freedoms that Hongkongers had are slowly being lost. It was an extradition bill that triggered the protests: a bill that would deny those in Hong Kong the right to fair trial. And it was the police response that sustained the protests. Hongkongers have a right to assembly under Basic Law article 11, but the police frequently ban protests.¹¹"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="The police response to what they call illegal protests has been ferocious. It is impossible to list every incident, but here are a few:"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="tear gas has been fired in underground train stations,¹² near an elderly home,¹³ directly at a first-aider,¹⁴ after its expiry date,¹⁵ and so much that 88% of the population have been exposed to it;¹⁶"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="sub-lethal bullets were fired at journalists,¹⁷ and in train stations (nearly causing a stampede), violating guidelines;¹⁸"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="police repeatedly refused to identify themselves or show their warrant card, and no longer show ID;¹⁹"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="the police nearly immediately arrest protesters but took over 40 minutes to respond to a gang attack on commuters and protesters;²⁰"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="the police arrest first-aiders and journalists, and impede them by shining lights, using pepper spray, and blocking them;²¹ and"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" KERN="0" CH="the police sexually harass²² and beat"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" KERN="-2" CH=" detainees,²³ whilst refusing access to lawyers.²⁴"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Aren’t protesters violent too?"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="The short answer is that some protesters have indeed been violent—vandalism has become frequent and someone was even burned."/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="One justification is self-defence. Especially against the police, it’s hard to disagree."/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="It’s also worth noting that the movement is very diverse. There is disagreement about violence even as we agree to strive for justice. Even if one opposes those who choose violence, one can still support the movement’s aims."/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="But the main difference with the police is that we apologise and reflect when we get things wrong—not enough, but we still do so.²⁵ In these dark times, that’s what makes us different from a police force who claim that those they beat are “yellow objects” who might not be human.²⁶"/>
+                <para LINESPMode="2"/>
+                <para/>
+                <ITEXT FONT="Lato Black" FONTSIZE="22" CH="Why should I care?"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="Hongkongers are fighting not just for their own freedom but for the world’s. The Chinese government has already crushed the people of the Mainland, and even now exports surveillance equipment to African dictatorships now.²⁷ Every free society is an alternative to despotism and so a threat. We must defend our freedoms whilst we can."/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" KERN="-1.5" CH="Yet Hong Kong also harbours a certain hope: it reminds the world that to be culturally Chinese is not to despise freedom, and of the possibility of defiance. To stand with Hong Kong is to stand up for your own freedom too; it is to stand against the system of global economic and political exploitation whose main engine is now the so-called “Chinese Communist Party”; it is to fight for freedom everywhere."/>
+                <trail LINESPMode="2" wordTrack="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="410" YPOS="690" OwnPage="1" ItemID="1488382417" PTYPE="4" WIDTH="220" HEIGHT="555" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 555 L0 555 L0 0 Z" copath="M0 0 L220 0 L220 555 L0 555 L0 0 Z" gXpos="410" gYpos="690" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1565629825" BACKITEM="1514122577"/>
+        <PAGEOBJECT XPOS="690" YPOS="690" OwnPage="1" ItemID="1565629825" PTYPE="4" WIDTH="220" HEIGHT="555" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 555 L0 555 L0 0 Z" copath="M0 0 L220 0 L220 555 L0 555 L0 0 Z" gXpos="690" gYpos="690" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1488382417"/>
+        <PAGEOBJECT XPOS="400" YPOS="735" OwnPage="1" ItemID="1497955393" PTYPE="4" WIDTH="10" HEIGHT="555" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L10 0 L10 555 L0 555 L0 0 Z" copath="M0 0 L10 0 L10 555 L0 555 L0 0 Z" gXpos="400" gYpos="735" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" FONTFEATURES="+onum" CH="-"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="115" YPOS="170" OwnPage="0" ItemID="1549873185" PTYPE="4" WIDTH="15" HEIGHT="555" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L15 0 L15 555 L0 555 L0 0 Z" copath="M0 0 L15 0 L15 555 L0 555 L0 0 Z" gXpos="115" gYpos="810" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="22" FONTFEATURES="+onum" CH="-"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="22" FONTFEATURES="+onum" CH="-"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="22" FONTFEATURES="+onum" CH="-"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="22" FONTFEATURES="+onum" CH="-"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="22" FONTFEATURES="+onum" CH="-"/>
+                <trail ALIGN="1" LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="410" YPOS="560" OwnPage="0" ItemID="1505834369" PTYPE="4" WIDTH="220" HEIGHT="50" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220 0 L220 50 L0 50 L0 0 Z" copath="M0 0 L220 0 L220 50 L0 50 L0 0 Z" gXpos="410" gYpos="560" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Lato Bold" FONTSIZE="11" CH="This leaflet is not necessarily endorsed by the organisers; © J.P. Loo, CC BY 3.0."/>
+                <ITEXT FONT="Lato Regular" FONTSIZE="11" CH="  "/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
