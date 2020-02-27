@@ -10,7 +10,7 @@
   
   
   <title>Removing Pandoc’s bibliography</title>
-  <meta name="description" content="In generating this website I use a combination of Jekyll1 and Pandoc.2 Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),3 which Jekyll’s default Markdown processors do not. I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.4 It turns out that CSL is not as alien as I thought; all that one needs to do to fix this is to remove everything between the &amp;lt;bibliography&amp;gt; tags on one’s local copy of the CSL file to cause the bibliography to disappear. Vide.↩︎ Vide.↩︎ Vide.↩︎ I use Chicago.↩︎">
+  <meta name="description" content="In generating this website I use a combination of Jekyll1 and Pandoc.2 Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),3 which Jekyll’s default Markdown processors do not. I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.4 It turns out that CSL is not as alien as I thought; all that one needs to do to fix this is to remove everything between the &amp;lt;bibliography&amp;gt; tags on one’s local copy of the CSL file to cause the bibliography to disappear. Vide.↩ Vide.↩ Vide.↩ I use Chicago.↩">
   
 
   <link rel="stylesheet" href="/assets/main.css">
@@ -25,7 +25,7 @@
   <meta property="og:title" content="Removing Pandoc’s bibliography">
   <meta property="og:site_name" content="palus weſtmonasterienſis">
   <meta property="og:url" content="/2019/10/22/removing-bibliography/">
-  <meta property="og:description" content="In generating this website I use a combination of Jekyll1 and Pandoc.2 Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),3 which Jekyll’s default Markdown processors do not. I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.4 It turns out that CSL is not as alien as I thought; all that one needs to do to fix this is to remove everything between the &amp;lt;bibliography&amp;gt; tags on one’s local copy of the CSL file to cause the bibliography to disappear. Vide.↩︎ Vide.↩︎ Vide.↩︎ I use Chicago.↩︎">
+  <meta property="og:description" content="In generating this website I use a combination of Jekyll1 and Pandoc.2 Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),3 which Jekyll’s default Markdown processors do not. I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.4 It turns out that CSL is not as alien as I thought; all that one needs to do to fix this is to remove everything between the &amp;lt;bibliography&amp;gt; tags on one’s local copy of the CSL file to cause the bibliography to disappear. Vide.↩ Vide.↩ Vide.↩ I use Chicago.↩">
   
   
   <meta name="twitter:card" content="summary">
@@ -209,18 +209,18 @@
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p>In generating this website I use a combination of Jekyll<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> and Pandoc.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> which Jekyll’s default Markdown processors do not.</p>
-<p>I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+    <p>In generating this website I use a combination of Jekyll<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> and Pandoc.<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a> Pandoc converts Markdown files into HTML; I use it because it supports Citation Style Language (CSL),<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a> which Jekyll’s default Markdown processors do not.</p>
+<p>I am generally of the view that footnotes are the most civilised way to cite others, though my justifications for this mainly apply to books. However, I am a creature of habit, and so like to have full footnotes in lieu of a bibliography when writing on-line too. However, Pandoc seemed to generate both a bibliography and full footnotes, which looked fairly bizarre.<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a></p>
 <p>It turns out that CSL is not as alien as I thought; all that one needs to do to fix this is to remove everything between the <code>&lt;bibliography&gt;</code> tags on one’s local copy of the CSL file to cause the bibliography to disappear.</p>
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p><a href="https://jekyllrb.com/">Vide</a>.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"><p><a href="https://pandoc.org/">Vide</a>.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3" role="doc-endnote"><p><a href="https://citationstyles.org/">Vide</a>.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4" role="doc-endnote"><p>I use <a href="https://github.com/citation-style-language/styles/blob/master/chicago-fullnote-bibliography.csl">Chicago</a>.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p><a href="https://jekyllrb.com/">Vide</a>.<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p><a href="https://pandoc.org/">Vide</a>.<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p><a href="https://citationstyles.org/">Vide</a>.<a href="#fnref3">↩</a></p></li>
+<li id="fn4"><p>I use <a href="https://github.com/citation-style-language/styles/blob/master/chicago-fullnote-bibliography.csl">Chicago</a>.<a href="#fnref4">↩</a></p></li>
 </ol>
-</section>
+</div>
 
 
   </div>
